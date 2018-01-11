@@ -1,8 +1,2 @@
-# EstudoPHP ola
+# EstudoPHP ola conflito
 
-
-
-
-
-
-"merge de arquivos"
